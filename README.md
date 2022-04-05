@@ -4,7 +4,7 @@ Web scrapped the Fmovies website
 Library Used:
 BeautifulSoup - Beautiful Soup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files. It creates a parse tree from page source code that can be used to extract data in a hierarchical and more readable manner.
 
-We need the 'requests' framework to get connected with the server.
+We need the 'requests' framework to connect with the server.
 
 1. movie.py: It contains the code that extracts the movie data from the home page
   a. It writes the output to two different files.
