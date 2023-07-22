@@ -1,7 +1,5 @@
 # Webscrapping
 
-Summary of the Combined Codes:
-
 1. TV Show Web Scraping:
    - The first part of the code scrapes TV show data from the "https://www.fmovies.ink/tv-show" webpage using BeautifulSoup and requests.
    - It extracts TV show titles and corresponding weblinks from the webpage and appends them to the "tv_show_second.txt" file with clear separators.
