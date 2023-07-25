@@ -15,3 +15,6 @@
 
 Overall, the combined code demonstrates two different web scraping tasks: one for TV shows and the other for movies. The code showcases the ability to extract relevant data from web pages, organize it in files, and perform movie searches using regular expressions.
 ![image](https://github.com/beingkumara/Webscrapping/assets/87388774/5cfe4a15-fa99-474f-943d-1152c4b7e322)
+
+Redirecting:
+![Screenshot (5)](https://github.com/beingkumara/Webscrapping/assets/87388774/48dc91e4-2e2b-4cfa-9453-a9f51ed3eeb1)
